@@ -12,8 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("Hello");
         System.out.println("Hello2");
-
-        System.out.println("sdgdfgd");
         System.out.println("blbbl");
     }
 }
